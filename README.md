@@ -1,1 +1,1 @@
-Solutions to Protostar http://exploit-exercises.com/protostar
+Solutions to [Protostar challenges](http://exploit-exercises.com/protostar)
